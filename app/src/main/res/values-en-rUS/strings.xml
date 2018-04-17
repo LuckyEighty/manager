@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BA Herdenmanagement</string>
+    <string name="rindvieh_nix_acker">%1$s screams like crazy: There is not a field!</string>
+    <string name="rindvieh_vor_mir_kein_acker">%1$s ands there and shakes his head: There is no field in front of me!</string>
+    <string name="rindvieh_hinter_mir_kein_acker">%1$s ands there and shakes his head: There is no field in behind me!</string>
+    <string name="rindvieh_kein_gras">ands there and shakes his head: There is no field in front of me!</string>
+    <string name="rindvieh_kein_eimer">%1$s stands there and shakes his head: There is no bucket!</string>
+    <string name="rindvieh_erst_fressen">% 1 $ s stands there and shakes his head: I have to eat first!</string>
+    <string name="rindvieh_nix_zu_rauchen">%1$s stands there and shakes his head: There\'s nothing to smoke here!</string>
+    <string name="rauch_gras">Smoke Weed</string>
+    <string name="fress_gras">Eat Grass</string>
+    <string name="gebe_milch">Give Milk</string>
+</resources>

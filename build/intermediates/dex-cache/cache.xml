@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_04b0c98b10c64bcfe6404ab779a4c9ed7bd1a849/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_87b8115ea0e0427fbfbce39abe08cc508861e49d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_2965923ed3cf0babf37dea39f451ff01521c17bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_75f22b9b3c1fb45552d68d754e1698f9edaa29ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_dfd16e5a9adda6a3fd891007d29b16126dfccf99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_41cb9ffdddbd6db7d83adf0fa4ce48aa8f12aa84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/org.simpleframework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/simple-xml-2.7.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/simple-xml-2.7.1_4c91d0e160cf9e7c0cfe51dfe3ec67711dfff394/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="467dda93cf50ca3870da702327d2662d7e5168b4">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dffdb3bc1dbe5e8e9f31b078362c3bff212136cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/stax/stax/1.2.0/c434800de5e4bbe1822805be5fb1c32d6834f830/stax-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c434800de5e4bbe1822805be5fb1c32d6834f830">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/stax-1.2.0_04129279dc9a07ba7cda6d3d8022e9ba369315eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_16175dd86b303c937ff123e2ac20497c6798ad65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_e8ffde83da8db046ea45a86975cc9d6592995c00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_72a3b89ddaab35ded7934b0e87d69e69a433f0f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_0ec73d4c1f0c94947ba9ebdfdadc0992277383f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_726b8a6ad1bd85a8e9321eb6b9cfeae9a2ce9ae4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_75e6a46c665e50b46f4bd2513c17b6730dcbb915/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Desktop/manager/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/lucas/Desktop/manager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_29150d08fc9d714e695d941d1c255c2a4ade0411/classes.dex" />
+    </item>
+
+</items>

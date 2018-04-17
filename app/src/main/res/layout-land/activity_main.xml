@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteY="73dp">
+
+    <ImageButton
+        android:id="@+id/imageButtonDown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="8dp"
+        android:src="@drawable/ic_keyboard_arrow_down_black_48dp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonFresseGras"
+        app:layout_constraintStart_toEndOf="@+id/imageButtonLeft"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonUp" />
+
+    <ImageButton
+        android:id="@+id/imageButtonUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/ic_keyboard_arrow_up_black_48dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageButtonDown"
+        app:layout_constraintStart_toEndOf="@+id/imageButtonLeft"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imageButtonLeft"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/ic_keyboard_arrow_left_black_48dp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonFresseGras"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imageButtonRight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/ic_keyboard_arrow_right_black_48dp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonFresseGras"
+        app:layout_constraintStart_toEndOf="@+id/imageButtonUp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonGebeMilch"
+        android:layout_width="243dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="Gebe Milch"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/acker_view"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/buttonFresseGras"
+        android:layout_width="243dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="Fress Gras"
+        app:layout_constraintBottom_toTopOf="@+id/buttonRauchGras"
+        app:layout_constraintEnd_toStartOf="@+id/acker_view"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/buttonRauchGras"
+        android:layout_width="243dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="Rauch Gras"
+        app:layout_constraintBottom_toTopOf="@+id/buttonGebeMilch"
+        app:layout_constraintEnd_toStartOf="@+id/acker_view"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <herdenmanagement.view.AckerView
+        android:id="@+id/acker_view"
+        android:layout_width="428dp"
+        android:layout_height="323dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageButtonRight"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </herdenmanagement.view.AckerView>
+</android.support.constraint.ConstraintLayout>
